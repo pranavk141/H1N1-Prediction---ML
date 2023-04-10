@@ -6,4 +6,6 @@ Because there has not been a vaccination developed for COVID-19 as of now, the c
 
 An H1N1 flu vaccine became publicly available in October 2009. The U.S. government conducted the National 2009 H1N1 Flu Survey (NHFS) via phone. The survey asked respondents whether they had received the H1N1 and seasonal flu vaccines with questions about themselves. These additional questions covered respondents' various information such as background (social, economic, and demographic), opinions on risks of disease and vaccine effectiveness, and so on. A better understanding of these characteristics and individual vaccination patterns can guide future public health efforts.<br>
 
-Aim of this project is to predict whether people got H1N1 vaccines using information they shared about their backgrounds, opinions, and health behaviors.
+Aim of this project is to predict whether people got H1N1 vaccines using information they shared about their backgrounds, opinions, and health behaviors.<br>
+
+By Pranav Kulkarni
